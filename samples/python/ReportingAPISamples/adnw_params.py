@@ -26,10 +26,6 @@ class Metric(enum.Enum):
     ADNW_CTR = 'fb_ad_network_ctr'
     ADNW_SHOW_RATE = 'fb_ad_network_show_rate'
     ADNW_VIDEO_GUARANTEE_REVENUE = 'fb_ad_network_video_guarantee_revenue'
-    ADNW_VIDEO_VIEW = 'fb_ad_network_video_view'
-    ADNW_VIDEO_VIEW_RATE = 'fb_ad_network_video_view_rate'
-    ADNW_VIDEO_MRC = 'fb_ad_network_video_mrc'
-    ADNW_VIDEO_MRC_RATE = 'fb_ad_network_video_mrc_rate'
     ADNW_BIDDING_REQUEST = 'fb_ad_network_bidding_request'
     ADNW_BIDDING_RESPONSE = 'fb_ad_network_bidding_response'
 
